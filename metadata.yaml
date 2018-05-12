@@ -1,0 +1,35 @@
+_repo: EventideA-Series-of-Tales-and-Poems_20185
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Afton, Effie
+    birthdate: 1829
+    deathdate: 1887
+    gutenberg_agent_id: '9136'
+    url: http://www.gutenberg.org/2009/agents/9136
+description: ''
+gutenberg_issued: '2006-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Poetry'
+- !lcc 'PS'
+tableOfContents: Wimbledon; or, the Hermit of the Cedars -- Scraggiewood, a tale of
+  American life -- Alice Orville; or, life in the South and West -- Come to me when
+  I'm dying -- Ellen -- I'm tired of life -- Lines to a friend, on removing from her
+  native village -- Ho for California! -- N. P. Rogers -- Lines -- Henry Clay -- The
+  soul's destiny -- Lines to a married friend -- New England Sabbath bells -- My heart
+  -- Our Helen -- My bonnet of blue -- Dark-browed Martha.
+title: 'Eventide
+
+  A Series of Tales and Poems'
+url: http://www.gutenberg.org/ebooks/20185
